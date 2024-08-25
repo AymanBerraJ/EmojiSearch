@@ -18,6 +18,7 @@ ReactJS: To build the dynamic user interface.
 JavaScript: For handling display logic and filtering.
 CSS: For styling the application.
 JSON: To store the emoji data.
+
 Learning Objectives
 
 Learn how to structure a ReactJS project.
@@ -25,4 +26,4 @@ Understand how to fetch and manipulate JSON data.
 Learn to use local state to manage dynamic searching.
 Develop skills in creating responsive and dynamic user interfaces.
 
-Here is the link of the project : https://emojisearch-arqn.onrender.com
+The link : https://emojisearch-arqn.onrender.com
