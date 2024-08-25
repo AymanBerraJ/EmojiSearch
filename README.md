@@ -25,4 +25,4 @@ Understand how to fetch and manipulate JSON data.
 Learn to use local state to manage dynamic searching.
 Develop skills in creating responsive and dynamic user interfaces.
 
-Here is the link of the project : 
+Here is the link of the project : https://emojisearch-arqn.onrender.com
